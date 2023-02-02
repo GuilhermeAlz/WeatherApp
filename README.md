@@ -1,0 +1,1 @@
+Weather app aplication JavaScript
