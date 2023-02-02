@@ -1,1 +1,1 @@
-Weather app aplication JavaScript
+Weather app aplication using JavaScript
